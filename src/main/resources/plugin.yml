@@ -1,0 +1,5 @@
+name: ServerRemote
+version: ${project.version}
+main: de.bypixels.serveremote.ServerRemote
+authors: [byPixels, PixelsDE]
+description: ServerRemote
